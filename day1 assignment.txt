@@ -1,0 +1,10 @@
+public class First{
+    public static void main(String[] args) {
+        System.out.print("hi, I am Ayush completed btech from Aktu currently living in Agra,UP \nThanks!");
+      
+        
+
+        
+    }
+   
+}
